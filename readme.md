@@ -1,0 +1,1 @@
+# sera criada uma rota principal pelo git para o meu proprio uso em meus projetos
